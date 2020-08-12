@@ -1,0 +1,18 @@
+||==========================||
+||   Discuz! 数据转换文档   ||
+||==========================||
+
+如果您已经拥有其他论坛系统，想要转换到 Discuz!，请阅读以下内容
+
+目前我们支持各种主流论坛程序转换到 Discuz!, 其中包括
+phpwind, dvbbs, 94kkbbs, bbsxp, cvbbs, dxbbs, ibb, vbb, ipb, leadbbs, molyx, 
+newbb, paint21sql, phpbb ... ...
+
+如果您精通 PHP 和 MySQL , 您可以使用 Discuz! XConvert 程序，升级您原来的论坛，
+下面这篇文章可以引导您顺利转换：
+http://www.discuz.net/thread-1014977-1-1.html   
+
+如果您想把论坛换到Discuz!，却苦于不熟悉论坛系统，可以参加我们的手握手活动！提
+交一个申请就有热心的朋友帮助你来完成转换，这个服务是免费提供给您的。
+申请地址：
+http://sws.discuz.net/index.php
